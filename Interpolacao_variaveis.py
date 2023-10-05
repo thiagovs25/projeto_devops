@@ -1,6 +1,6 @@
-nome = "XXXXXXXXXXXXX"
-idade = xx
-profissao = "xxxxxxxxxxxx" 
+nome = "Thiago Henrique Viana da Silva"
+idade = 31
+profissao = "Analista SRE" 
 linguagem = "Python"
 
 saldo = 10245.435
